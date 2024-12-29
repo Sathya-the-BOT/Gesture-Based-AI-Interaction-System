@@ -16,8 +16,3 @@ A Python-based system for AI interaction using hand gestures, allowing users to 
 - NumPy
 - PIL (Pillow)
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Gesture-Based-AI-Interaction-System.git
-   cd Gesture-Based-AI-Interaction-System
